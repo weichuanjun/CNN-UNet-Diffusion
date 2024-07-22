@@ -3,3 +3,4 @@ logs
 generated_images
 runs
 models
+cats_and_dogs_classifier.h5
